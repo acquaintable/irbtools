@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
   s.add_dependency %q<fancy_irb>,     ">= 0.7.3"
   s.add_dependency %q<wirb>,          ">= 0.4.3"
   s.add_dependency %q<hirb>,          "~> 0.7.0"
-  s.add_dependency %q<awesome_print>, "~> 1.0.2"
+  s.add_dependency %q<awesome_print>, "~> 1"
   s.add_dependency %q<coderay>,       "~> 1.0.8"
   s.add_dependency %q<g>,             ">= 1.7.1"
 
